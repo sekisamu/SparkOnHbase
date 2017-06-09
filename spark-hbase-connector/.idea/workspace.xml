@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fcca1267-7a37-4830-a5a4-13bd74e593a4" name="Default" comment="" />
+    <list default="true" id="fcca1267-7a37-4830-a5a4-13bd74e593a4" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="spark-hbase-connector.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,7 +27,7 @@
       <file leaf-file-name="HBaseBulkPutExample.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/cn/andlinks/examples/HBaseBulkPutExample.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
+            <state relative-caret-position="136">
               <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
               <folding />
             </state>
@@ -45,8 +47,8 @@
       <file leaf-file-name="HBaseContext.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/cn/andlinks/hbasetwo/spark/HBaseContext.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4291">
-              <caret line="511" column="14" selection-start-line="511" selection-start-column="14" selection-end-line="511" selection-end-column="14" />
+            <state relative-caret-position="387">
+              <caret line="484" column="53" selection-start-line="484" selection-start-column="53" selection-end-line="484" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -57,45 +59,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="697">
               <caret line="81" column="29" selection-start-line="81" selection-start-column="29" selection-end-line="81" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#17465#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="e#2145#2146#0" expanded="false" />
-                <element signature="e#2193#2194#0" expanded="false" />
-                <element signature="e#2425#2426#0" expanded="false" />
-                <element signature="e#2463#2464#0" expanded="false" />
-                <element signature="e#3230#3231#0" expanded="false" />
-                <element signature="e#3278#3279#0" expanded="false" />
-                <element signature="e#4747#4748#0" expanded="false" />
-                <element signature="e#4799#4800#0" expanded="false" />
-                <element signature="e#16270#16271#0" expanded="false" />
-                <element signature="e#16324#16325#0" expanded="false" />
-                <element signature="e#16369#16370#0" expanded="false" />
-                <element signature="e#16407#16408#0" expanded="false" />
-                <element signature="e#16478#16479#0" expanded="false" />
-                <element signature="e#16527#16528#0" expanded="false" />
-                <element signature="e#16583#16584#0" expanded="false" />
-                <element signature="e#16628#16629#0" expanded="false" />
-                <element signature="e#16711#16712#0" expanded="false" />
-                <element signature="e#16761#16762#0" expanded="false" />
-                <element signature="e#16858#16859#0" expanded="false" />
-                <element signature="e#16904#16905#0" expanded="false" />
-                <element signature="e#16969#16970#0" expanded="false" />
-                <element signature="e#17023#17024#0" expanded="false" />
-                <element signature="e#17096#17097#0" expanded="false" />
-                <element signature="e#17154#17155#0" expanded="false" />
-                <element signature="e#17220#17221#0" expanded="false" />
-                <element signature="e#17268#17269#0" expanded="false" />
-                <element signature="e#17334#17335#0" expanded="false" />
-                <element signature="e#17376#17377#0" expanded="false" />
-                <element signature="e#17421#17422#0" expanded="false" />
-                <element signature="e#17461#17462#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -164,7 +136,7 @@
     <option name="width" value="1390" />
     <option name="height" value="1003" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -189,8 +161,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -285,7 +258,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -718,7 +690,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1721" y="47" width="1390" height="1003" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1044,46 +1016,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
           <caret line="81" column="29" selection-start-line="81" selection-start-column="29" selection-end-line="81" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#17465#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#2145#2146#0" expanded="false" />
-            <element signature="e#2193#2194#0" expanded="false" />
-            <element signature="e#2425#2426#0" expanded="false" />
-            <element signature="e#2463#2464#0" expanded="false" />
-            <element signature="e#3230#3231#0" expanded="false" />
-            <element signature="e#3278#3279#0" expanded="false" />
-            <element signature="e#4747#4748#0" expanded="false" />
-            <element signature="e#4799#4800#0" expanded="false" />
-            <element signature="e#16270#16271#0" expanded="false" />
-            <element signature="e#16324#16325#0" expanded="false" />
-            <element signature="e#16369#16370#0" expanded="false" />
-            <element signature="e#16407#16408#0" expanded="false" />
-            <element signature="e#16478#16479#0" expanded="false" />
-            <element signature="e#16527#16528#0" expanded="false" />
-            <element signature="e#16583#16584#0" expanded="false" />
-            <element signature="e#16628#16629#0" expanded="false" />
-            <element signature="e#16711#16712#0" expanded="false" />
-            <element signature="e#16761#16762#0" expanded="false" />
-            <element signature="e#16858#16859#0" expanded="false" />
-            <element signature="e#16904#16905#0" expanded="false" />
-            <element signature="e#16969#16970#0" expanded="false" />
-            <element signature="e#17023#17024#0" expanded="false" />
-            <element signature="e#17096#17097#0" expanded="false" />
-            <element signature="e#17154#17155#0" expanded="false" />
-            <element signature="e#17220#17221#0" expanded="false" />
-            <element signature="e#17268#17269#0" expanded="false" />
-            <element signature="e#17334#17335#0" expanded="false" />
-            <element signature="e#17376#17377#0" expanded="false" />
-            <element signature="e#17421#17422#0" expanded="false" />
-            <element signature="e#17461#17462#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/cn/andlinks/examples/HBaseBulkPutExample.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state relative-caret-position="136">
           <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
           <folding />
         </state>
@@ -1099,8 +1038,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/cn/andlinks/hbasetwo/spark/HBaseContext.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4291">
-          <caret line="511" column="14" selection-start-line="511" selection-start-column="14" selection-end-line="511" selection-end-column="14" />
+        <state relative-caret-position="387">
+          <caret line="484" column="53" selection-start-line="484" selection-start-column="53" selection-end-line="484" selection-end-column="53" />
           <folding />
         </state>
       </provider>
